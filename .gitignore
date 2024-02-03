@@ -1,0 +1,5 @@
+token.*
+mongo*
+.venv/*
+env/*
+__pycache__/*
